@@ -1,0 +1,10 @@
+[
+  {
+    "ParameterKey": "EnableLogFileValidation",
+    "ParameterValue": "true"
+  }, 
+  {
+    "ParameterKey": "IncludeGlobalEvents",
+    "ParameterValue": "true"
+  }
+]
